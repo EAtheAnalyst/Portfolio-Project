@@ -1,1 +1,1 @@
-## Phyton Analysis of a Survey Data
+## Python Analysis of a Survey Data
